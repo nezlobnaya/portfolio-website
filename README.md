@@ -1,3 +1,10 @@
+# Hi!My name is Vlad Burlutskiy 
+
+# [See what I do and what I am interested in](https://nezlobnaya.github.io/portfolio-website/).
+
+
+<!-- ![](game.gif)
+
 # Build A Portfolio Website
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
@@ -51,4 +58,4 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 ## Stretch
 
 - [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
-- [ ] Download another template and see if you can get the CSS preprocessor working on the project
+- [ ] Download another template and see if you can get the CSS preprocessor working on the project -->
